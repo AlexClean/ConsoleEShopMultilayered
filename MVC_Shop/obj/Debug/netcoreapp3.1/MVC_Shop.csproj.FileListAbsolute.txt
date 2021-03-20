@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\MVC_Shop\MVC_Shop\obj\Debug\netcoreapp3.1\MVC_Shop.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\MVC_Shop\MVC_Shop\obj\Debug\netcoreapp3.1\MVC_Shop.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MVC_Shop\MVC_Shop\obj\Debug\netcoreapp3.1\MVC_Shop.AssemblyInfo.cs
+C:\Users\USER\source\repos\MVC_Shop\MVC_Shop\obj\Debug\netcoreapp3.1\MVC_Shop.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MVC_Shop\MVC_Shop\bin\Debug\netcoreapp3.1\MVC_Shop.exe
+C:\Users\USER\source\repos\MVC_Shop\MVC_Shop\bin\Debug\netcoreapp3.1\MVC_Shop.deps.json
+C:\Users\USER\source\repos\MVC_Shop\MVC_Shop\bin\Debug\netcoreapp3.1\MVC_Shop.runtimeconfig.json
+C:\Users\USER\source\repos\MVC_Shop\MVC_Shop\bin\Debug\netcoreapp3.1\MVC_Shop.runtimeconfig.dev.json
+C:\Users\USER\source\repos\MVC_Shop\MVC_Shop\bin\Debug\netcoreapp3.1\MVC_Shop.dll
+C:\Users\USER\source\repos\MVC_Shop\MVC_Shop\bin\Debug\netcoreapp3.1\MVC_Shop.pdb
+C:\Users\USER\source\repos\MVC_Shop\MVC_Shop\obj\Debug\netcoreapp3.1\MVC_Shop.dll
+C:\Users\USER\source\repos\MVC_Shop\MVC_Shop\obj\Debug\netcoreapp3.1\MVC_Shop.pdb
+C:\Users\USER\source\repos\MVC_Shop\MVC_Shop\obj\Debug\netcoreapp3.1\MVC_Shop.genruntimeconfig.cache
